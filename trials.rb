@@ -1,4 +1,3 @@
-#set number of games to play and initial values for stay/switch
 games = 10000
 stay = 0
 switch = 0
